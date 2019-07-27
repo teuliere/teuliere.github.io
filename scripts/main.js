@@ -1,12 +1,10 @@
 let monEntete = document.querySelector('h1');
-/*monEntete.textContent = 'Bonjour Martinois';
+/*monEntete.textContent = 'Bonjour Saintmartinois';
 document.querySelector('body').style.backgroundColor = 'purple';*/
 let monBouton = document.querySelector('button');
-if (!localStorage.getItem('nom')) {
-  setNomFamille();
-} else {
+if (localStorage.getItem('nom')) {
   let recupNom = localStorage.getItem('nom');
-  monEntete.textContent = 'St martin est trop cool pour : ' + recupNom;
+  monEntete.textContent = 'St Martin Lys est trop cool pour : ' + recupNom;
 };
 
 monBouton.addEventListener('click', function() {
@@ -29,7 +27,7 @@ monImage.addEventListener('click', function() {
 });
 
 function setNomFamille() {
-  let monNom = prompt('Veuillez saisir votre nom : ');
+  let monNom = prompt('Veuillez saisir votre nom (modifie le titre de la page) : ');
   localStorage.setItem('nom', monNom);
-  monEntete.textContent = 'St martin est cool pour : ' + monNom;
+  monEntete.textContent = 'St Martin Lys est cool pour : ' + monNom;
     };
