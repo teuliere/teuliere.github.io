@@ -1,0 +1,67 @@
+html {
+    font-size: 14px; /* px signifie 'pixels': la taille de base pour la police est désormais 10 pixels de haut  */
+    font-family: 'Open Sans', sans-serif; /* cela devrait être le reste du résultat obtenu à partir de Google fonts */
+    background-color: #ffffbf;
+}
+p,li {
+  font-size: 16px;    
+  line-height: 2;
+  letter-spacing: 1px;
+   color: black;
+   width: 600px;
+/*  border: 1px solid black;*/
+}
+
+#voieferre {
+    color: salmon;
+  }
+.ma-classe {
+    color: blue;
+    font-weight:bolder;
+  }
+a:hover{
+    color: black;
+  }
+h1 {
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Fascinate', cursive;  
+    margin: 0;
+  padding: 20px 0;    
+  color: #00539F;
+  text-shadow: 10px 10px 10px black;
+}
+
+h2 {
+    font-family: 'Mountains of Christmas', cursive;
+    color:crimson;
+    font-size: 30px;
+}
+
+.bouton-vert {
+  background-color:#cec;
+  color:#black;
+  border:2px outset #cec;
+  }
+
+.bouton-vert[disabled] {
+  background-color:#cdc;
+  color:#777;
+  }
+
+.bouton-vert:active {
+  border-style: inset;
+  }
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+body {
+  width: 800px;
+  margin: 0 auto;
+  background-color: papayawhip;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
