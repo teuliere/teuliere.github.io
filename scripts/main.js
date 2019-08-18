@@ -3,7 +3,7 @@ let monEntete = document.querySelector('h1');
 document.querySelector('body').style.backgroundColor = 'purple';*/
 let monBouton = document.querySelector('button');
 if (!localStorage.getItem('nom')) {
-  setNomFamille();
+//  setNomFamille();
 } else {
   let recupNom = localStorage.getItem('nom');
   monEntete.textContent = 'St martin est trop cool pour : ' + recupNom;
