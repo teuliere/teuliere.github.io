@@ -6,7 +6,7 @@ if (!localStorage.getItem('nom')) {
 //  setNomFamille();
 } else {
   let recupNom = localStorage.getItem('nom');
-  monEntete.textContent = 'St martin est trop cool pour : ' + recupNom;
+  monEntete.textContent = 'St Martin est trop cool pour : ' + recupNom;
 };
 
 monBouton.addEventListener('click', function() {
@@ -31,5 +31,5 @@ monImage.addEventListener('click', function() {
 function setNomFamille() {
   let monNom = prompt('Veuillez saisir votre nom : ');
   localStorage.setItem('nom', monNom);
-  monEntete.textContent = 'St martin est cool pour : ' + monNom;
+  monEntete.textContent = 'St Martin est cool pour : ' + monNom;
     };
