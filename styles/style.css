@@ -43,21 +43,6 @@ h2 {
     font-size: 30px;
 }
 
-.bouton-vert {
-  background-color:#cec;
-  color:#black;
-  border:2px outset #cec;
-  }
-
-.bouton-vert[disabled] {
-  background-color:#cdc;
-  color:#777;
-  }
-
-.bouton-vert:active {
-  border-style: inset;
-  }
-
 img {
   display: block;
   margin: 0 auto;
@@ -69,4 +54,11 @@ body {
   background-color: papayawhip;
   padding: 0 20px 20px 20px;
   border: 5px solid black;
+}
+
+.a11y-label {
+  margin: 0;
+  text-align: right;
+  font-size: 0.7rem;
+  width: 98%;
 }
