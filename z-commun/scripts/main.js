@@ -13,6 +13,7 @@ monBouton.addEventListener('click', function() {
   setNomFamille();
 });
 
+/*
 let monImage = document.querySelector('img');
 
 monImage.addEventListener('click', function() {
@@ -27,9 +28,33 @@ monImage.addEventListener('click', function() {
           }
     }
 });
+*/
 
 function setNomFamille() {
   let monNom = prompt('Veuillez saisir votre nom : ');
   localStorage.setItem('nom', monNom);
   monEntete.textContent = 'St Martin est cool pour : ' + monNom;
     };
+
+
+let imageAffichee = document.querySelector('.imgAffichee');
+let barreImage = document.querySelector('.barreImage');
+let listeTableaux = ['planeze','pont-vieux','st-martin'];
+let listeCommentaires = ['Planezes','pont vieux','le village'];
+
+for(let i = 0; i < 3; i++) {
+  let nouvelleImage = document.createElement('img');
+  nouvelleImage.setAttribute('src', 'z-commun/images/' + listeTableaux[i] + '.jpg');
+  console.log('z-commun/images/' + listeTableaux[i] + '.jpg')
+  nouvelleImage.setAttribute('alt', 'St Martin - Tableau de Laurence - ' + listeCommentaires[i]);
+  nouvelleImage.setAttribute('width', '600px');
+  nouvelleImage.setAttribute('height', '480px');
+  barreImage.appendChild(nouvelleImage);
+  nouvelleImage.onclick = function(e) {
+    let imageCourante = e.target.getAttribute('src');
+    imageAffichee.setAttribute('src', imageCourante);
+    let commentaireCourant = e.target.getAttribute('alt');
+    imageAffichee.setAttribute('alt', commentaireCourant);
+  }
+}
+
