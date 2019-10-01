@@ -103,7 +103,7 @@
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>https://teuliere.github.io/col-gages/col-gages.html</loc>
+      <loc>https://teuliere.github.io/col-gage/col-gage.html</loc>
       <lastmod>2019-09-28</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -308,6 +308,12 @@
    </url>
    <url>
       <loc>https://teuliere.github.io/television/television.html</loc>
+      <lastmod>2019-09-28</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://teuliere.github.io/randonnee/randonnee.html</loc>
       <lastmod>2019-09-28</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
