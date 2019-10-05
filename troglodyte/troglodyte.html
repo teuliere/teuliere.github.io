@@ -3,16 +3,115 @@
   <head>
     <meta charset="utf-8">
     <title>Saint Martin troglodyte</title>
-	<link href="../z-commun/styles/style.css" rel="stylesheet" type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Fascinate|Mountains+of+Christmas&display=swap" rel="stylesheet">      
+	<link href="https://fonts.googleapis.com/css?family=Fascinate|Mountains+of+Christmas&display=swap" rel="stylesheet">      
     <meta name="description" content="Saint Martin Lys, troglodyte ermitage ayant accueilli Félix Armand durant la révolution">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="../st-martin.gif">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <link href="../z-commun/styles/style.css" rel="stylesheet" type="text/css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    <style>
+       .carousel-inner > .item > img,
+       .carousel-inner > .item > a > img {
+           width: 70%;
+           margin: auto;
+       }
+        .carousel-inner > .item > div > p {
+            color: white;
+            font-weight: bold;
+            width: 100%;
+        }
+    </style>
   </head>
   <body>
 	<h1>Saint Martin Lys - troglodyte - l'ermitage de Félix Armand</h1>
       <h2>Où mieux ce cacher quand on est persécuté par la République</h2>
       <p></p>
+      <!--
+      <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="..." alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="..." alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="..." alt="Third slide">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+-->
+     <div id="myCarousel" class="carousel slide">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+           <li class="item1 active"></li>
+           <li class="item2"></li>
+           <li class="item3"></li>
+           <li class="item4"></li>
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner" role="listbox">
+            <div class="item active">
+               <img src="images/P1120078%20la%20gal%20depuis%20la%20croix.JPG" alt="Paroi rocheuse du Gal vue depuis la croix" width="689" height="518">
+               <div class="carousel-caption">
+                  <h3>Le Gal</h3>
+                  <p>Paroi rocheuse du Gal vue depuis la croix</p>
+               </div>
+            </div>
+
+            <div class="item">
+               <img src="images/P1080458%20grotte%20de%20F%C3%A9lix%20Armand.JPG" alt="La grotte de Félix Armand depuis La Borde" width="689" height="518">
+               <div class="carousel-caption">
+                  <h3>La grotte de Félix Armand</h3>
+                  <p>La grotte de Félix Armand depuis La Borde</p>
+               </div>
+            </div>
+    
+            <div class="item">
+               <img src="images/P1080463%20grotte%20de%20F%C3%A9lix%20Armand.JPG" alt="La grotte de Félix Armand plus près" width="689" height="518">
+               <div class="carousel-caption">
+                  <h3>La grotte de Félix Armand</h3>
+                  <p>La grotte de Félix Armand plus près</p>
+               </div>
+            </div>
+
+            <div class="item">
+               <img src="images/0774%20grotte%20de%20F%C3%A9lix%20Armand%20-%20vue%20de%20La%20Borde%20(gros%20plan).JPG" alt="Flower" width="689" height="518">
+               <div class="carousel-caption">
+                  <h3>La grotte de Félix Armand</h3>
+                  <p>La grotte de Félix Armand en gros plan</p>
+            </div>
+         </div>
+    </div>
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" role="button">
+      <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" role="button">
+      <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+      
+      <p><br>Autres vues depuis le couvent </p>
+      
+      <img src="images/0787%20grotte%20de%20F%C3%A9lix%20Armand%20-%20vue%20de%20l'abbaye.JPG" alt="St Martin Lys, la grotte de Félix Armand depuis le bord de l'Aude" width="519" height="692"> 
+      <p class="Legende-image">La grotte de Félix Armand vue depuis le bord de l'Aude<br>zone stérile<br>Remarquer le dernier éboulement de cette roche friable</p>
+      <img src="images/0803%20grotte%20de%20F%C3%A9lix%20Armand%20-%20vue%20de%20l'abbaye.JPG" alt="St Martin Lys, la grotte de Félix Armand depuis les ruines du couvent" width="519" height="692"> 
+      <p class="Legende-image">la grotte de Félix Armand vue depuis le haut des ruines du couvent</p> 
+
       <!--
       <p>Napoléon premier pour rendre grâce à l'action de Félix Armand pour ses travaux de percement de la route de la Pierre-Lys, lui écrivit une lettre de félicitations disant que "l'état deviendrait son trésorier et que rien ne lui manquerait, puisque entre les mains d'un prêtre le billon se changeait en or massif." <sup>1</sup> : à cette occasion, il donna un bon sur sa cassette et offrit le ciboire.<br>
       </p>
@@ -26,6 +125,36 @@
       <p>Dernièrement (2016) la commune a prété le ciboire pour une exposition organisée par le département, ce qui a permi de référencer l'objet, le rendant par là même impropre à la revente.</p>
       <p><br><sup>1</sup>p 66 de "<a href="https://books.google.fr/books?id=zx5BAAAAYAAJ&dq=%22F%C3%A9lix%20Armand%20m%C3%A9ritait%20son%20attention%22&hl=fr&pg=PA66#v=onepage&q=%22F%C3%A9lix%20Armand%20m%C3%A9ritait%20son%20attention%22&f=false">Vie de Félix Armand, curé de Saint-Martin, diocèse de Carcassonne; Auteur de la route de la Pierre-Lis</a>" par M. J.-P. DE LA CROIX.)</p>
       -->
-      <p><br><a  class="Bouton-retour" href="../index.html">Retour à l'accueil</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="Bouton-precedent" href="../fanges-vue/fanges-vue.html">Précédent</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="Bouton-suivant" href="../vignes/vignes.html">Suivant</a></p>	
+      <p><br><a  class="Bouton-retour" href="../index.html">Retour à l'accueil</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="Bouton-precedent" href="../fanges-vue/fanges-vue.html">Précédent</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="Bouton-suivant" href="../vignes/vignes.html">Suivant</a></p>
+      
+      
+      <script>
+        $(document).ready(function(){
+           // Activate Carousel
+           $("#myCarousel").carousel();
+           // Enable Carousel Indicators
+           $(".item1").click(function(){
+              $("#myCarousel").carousel(0);
+           });
+           $(".item2").click(function(){
+              $("#myCarousel").carousel(1);
+           });
+           $(".item3").click(function(){
+              $("#myCarousel").carousel(2);
+           });
+           $(".item4").click(function(){
+              $("#myCarousel").carousel(3);
+           });
+    
+           // Enable Carousel Controls
+           $(".left").click(function(){
+              $("#myCarousel").carousel("prev");
+           });
+           $(".right").click(function(){
+              $("#myCarousel").carousel("next");
+           });
+        });
+</script>
+
   </body>
 </html>
