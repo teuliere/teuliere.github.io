@@ -1,6 +1,7 @@
+/* bouton pour affecter un nom à la page principale
 let monEntete = document.querySelector('h1');
-/*monEntete.textContent = 'Bonjour Martinois';
-document.querySelector('body').style.backgroundColor = 'purple';*/
+//monEntete.textContent = 'Bonjour Martinois';
+//document.querySelector('body').style.backgroundColor = 'purple';
 let monBouton = document.querySelector('button');
 if (!localStorage.getItem('nom')) {
 //  setNomFamille();
@@ -11,9 +12,9 @@ if (!localStorage.getItem('nom')) {
 
 monBouton.addEventListener('click', function() {
   setNomFamille();
-});
+});*/
 
-/*
+/* pour afficher une autre page au clic sur l'image
 let monImage = document.querySelector('img');
 
 monImage.addEventListener('click', function() {
