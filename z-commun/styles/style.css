@@ -3,7 +3,7 @@ html {
     font-family: 'Open Sans', sans-serif; /* cela devrait être le reste du résultat obtenu à partir de Google fonts */
     background-color: #ffffbf;
 }
-p,li {
+p,li,th,caption {
   font-size: 16px;    
   line-height: 2;
   letter-spacing: 1px;
@@ -19,7 +19,6 @@ li{width: 750px;}
 .ma-classe {
     color: blue;
     font-weight:bolder;
-    float: none;
   }
 .Legende-image {
   text-align: center;
@@ -95,11 +94,21 @@ body {
 }
 
 .barreImage img {
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
+  display: flex;
   float: left;
   width: 60px;
   height: 48px;
   cursor: pointer;
 }
+
+.tableaucadre td, .tableaucadre th {
+    border: 1px solid #54595d;
+    padding: 3px 10px;
+}
+.tabaligvertic {
+    vertical-align: top;
+}
+.tableaucadre {
+    margin: auto;
+    border: 1px solid #54595d;
+    border-collapse: collapse;
