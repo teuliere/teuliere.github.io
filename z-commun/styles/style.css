@@ -112,3 +112,10 @@ body {
     margin: auto;
     border: 1px solid #54595d;
     border-collapse: collapse;
+}
+.stylh2norm {
+   font-family: 'Open Sans', sans-serif;
+    color: black;
+    font-size: 22px;
+}
+
