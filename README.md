@@ -1,4 +1,4 @@
 # teuliere.github.io
-Histoire et légende de St Martin Lys
+Histoire et légendes de St Martin Lys
 
 A compléter avec le référentiel de "Stmartin"
