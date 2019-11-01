@@ -342,4 +342,10 @@
       <changefreq>weekly</changefreq>
       <priority>0.1</priority>
    </url>
+   <url>
+      <loc>https://teuliere.github.io/presse/presse.html</loc>
+      <lastmod>2019-11-01</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.1</priority>
+   </url>
 </urlset> 
