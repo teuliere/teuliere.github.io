@@ -337,6 +337,12 @@
       <priority>0.2</priority>
    </url>
    <url>
+      <loc>https://teuliere.github.io/archives/archives.html</loc>
+      <lastmod>2019-11-09</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
       <loc>https://teuliere.github.io/vrac/vrac.html</loc>
       <lastmod>2019-10-23</lastmod>
       <changefreq>weekly</changefreq>
@@ -346,6 +352,6 @@
       <loc>https://teuliere.github.io/presse/presse.html</loc>
       <lastmod>2019-11-01</lastmod>
       <changefreq>weekly</changefreq>
-      <priority>0.1</priority>
+      <priority>0.8</priority>
    </url>
 </urlset> 
