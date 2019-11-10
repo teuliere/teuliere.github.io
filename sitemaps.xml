@@ -328,13 +328,13 @@
       <loc>https://teuliere.github.io/abbaye/abbaye-annexes.html</loc>
       <lastmod>2019-10-23</lastmod>
       <changefreq>weekly</changefreq>
-      <priority>0.2</priority>
+      <priority>0.4</priority>
    </url>
    <url>
       <loc>https://teuliere.github.io/abbaye/abbaye-latin.html</loc>
       <lastmod>2019-10-23</lastmod>
       <changefreq>weekly</changefreq>
-      <priority>0.2</priority>
+      <priority>0.4</priority>
    </url>
    <url>
       <loc>https://teuliere.github.io/archives/archives.html</loc>
@@ -353,5 +353,11 @@
       <lastmod>2019-11-01</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://teuliere.github.io/abbaye-partage/abbaye-partage.html</loc>
+      <lastmod>2019-11-01</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
    </url>
 </urlset> 
