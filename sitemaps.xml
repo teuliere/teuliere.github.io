@@ -360,4 +360,10 @@
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
    </url>
+   <url>
+      <loc>https://teuliere.github.io/village/village.html</loc>
+      <lastmod>2019-11-01</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
 </urlset> 
