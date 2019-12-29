@@ -135,3 +135,14 @@ body {
   text-decoration: none;
 }
 
+.btnCliquable2 {
+  border: 0;
+  background: rgba(0,0,0,0);
+  text-shadow: 1px 1px white, -1px -1px white, 1px -1px white, -1px 1px white;
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 55px;
+  color: blue;
+  text-decoration: none;
+}
