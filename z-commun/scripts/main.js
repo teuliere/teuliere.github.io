@@ -46,7 +46,6 @@ let listeCommentaires = ['Planezes','pont vieux','le village'];
 for(let i = 0; i < 3; i++) {
   let nouvelleImage = document.createElement('img');
   nouvelleImage.setAttribute('src', 'z-commun/images/' + listeTableaux[i] + '.jpg');
-  console.log('z-commun/images/' + listeTableaux[i] + '.jpg')
   nouvelleImage.setAttribute('alt', 'St Martin - Tableau de Laurence - ' + listeCommentaires[i]);
   nouvelleImage.setAttribute('width', '600px');
   nouvelleImage.setAttribute('height', '480px');
@@ -59,3 +58,22 @@ for(let i = 0; i < 3; i++) {
   }
 }
 
+let imageAffichee2 = document.querySelector('.imgAffichee2');
+let barreImage2 = document.querySelector('.barreImage2');
+let listeTableaux2 = ['cartesudestSatellite','cartesudestIGN classique','cartesudest1950','cartesudestEsri','cartesudestcadastre'];
+let listeCommentaires2 = ['vue satellite','carte IGN classique','vue aérienne 1950','carte Esri','cadastre'];
+
+for(let i = 0; i < 5; i++) {
+  let nouvelleImage = document.createElement('img');
+  nouvelleImage.setAttribute('src', 'z-commun/images/' + listeTableaux2[i] + '.JPG');
+  nouvelleImage.setAttribute('alt', 'Sud est de St Martin - ' + listeCommentaires2[i]);
+  nouvelleImage.setAttribute('width', '750px');
+  nouvelleImage.setAttribute('height', '530px');
+  barreImage2.appendChild(nouvelleImage);
+  nouvelleImage.onclick = function(e) {
+    let imageCourante = e.target.getAttribute('src');
+    imageAffichee2.setAttribute('src', imageCourante);
+    let commentaireCourant = e.target.getAttribute('alt');
+    imageAffichee2.setAttribute('alt', commentaireCourant);
+  }
+}
