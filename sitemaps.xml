@@ -372,9 +372,15 @@
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
-      <url>
+   <url>
       <loc>https://teuliere.github.io/pierre-lys-annexe/pierre-lys-annexe.html</loc>
       <lastmod>2019-12-22</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://teuliere.github.io/cartes/cartes.html</loc>
+      <lastmod>2020-01-04</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
