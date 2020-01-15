@@ -134,3 +134,9 @@ body {
     color: black;
     background: rgba(0,0,0,0.6);
   }
+
+.daterelief {
+    margin-top: 20px;
+    margin-bottom: 0;
+    font-weight:bolder;
+}
