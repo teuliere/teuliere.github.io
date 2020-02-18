@@ -408,4 +408,10 @@
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
+   <url>
+      <loc>https://teuliere.github.io/perso-zephirin-dumont/zephirin-dumont.html</loc>
+      <lastmod>2020-02-11</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
 </urlset> 
