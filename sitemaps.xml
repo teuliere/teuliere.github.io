@@ -432,4 +432,10 @@
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
+   <url>
+      <loc>https://teuliere.github.io/gare/TrainTouristique.html</loc>
+      <lastmod>2020-08-04</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
 </urlset> 
