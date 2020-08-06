@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
    <url>
       <loc>https://teuliere.github.io/</loc>
       <lastmod>2019-09-28</lastmod>
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
+      <image:image>
+         <image:loc>https://teuliere.github.io/z-commun/images/100_1814%20village%20depuis%20la%20via%20ferrata.JPG</image:loc>
+         <image:caption>Saint Martin Lys</image:caption>
+         <image:title>Saint Martin lys vue de la via ferrata</image:title> 
+      </image:image>
+      <image:image>
+         <image:loc>https://teuliere.github.io/z-commun/images/st-martin.jpg</image:loc>
+         <image:caption>Saint Martin Lys tableau</image:caption>
+         <image:title>Saint Martin lys - Tableau de Laurence Teulière</image:title> 
+      </image:image>
+      <image:image>
+         <image:loc>https://teuliere.github.io/z-commun/images/pont-vieux.jpg</image:loc>
+         <image:caption>Saint Martin Lys pont vieux</image:caption>
+         <image:title>Saint Martin lys - Pont vieux - Tableau de Laurence Teulière</image:title>
+       </image:image>
+      <image:image>
+         <image:loc>https://teuliere.github.io/z-commun/images/planeze.jpg</image:loc>
+         <image:caption>Saint Martin Lys planèses</image:caption>
+         <image:title>Saint Martin lys - Planèses - Tableau de Laurence Teulière</image:title>
+       </image:image>
    </url>
    <url>
       <loc>https://teuliere.github.io/index.html</loc>
