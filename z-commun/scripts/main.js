@@ -1,3 +1,9 @@
+
+function redirectionLien() {
+  var url = "https://www.google.com/search?q=" + document.getElementById("champrecherche").value + "+site:teuliere.github.io";
+  window.open(url, '_blank');
+}
+
 /* bouton pour affecter un nom à la page principale
 let monEntete = document.querySelector('h1');
 //monEntete.textContent = 'Bonjour Martinois';
