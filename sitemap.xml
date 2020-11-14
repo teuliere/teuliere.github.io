@@ -513,4 +513,10 @@
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
+   <url>
+      <loc>https://https://teuliere.github.io/gesse/gesse.html</loc>
+      <lastmod>2020-11-14</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+   </url>
 </urlset> 
