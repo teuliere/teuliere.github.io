@@ -46,10 +46,10 @@ function setNomFamille() {
 
 let imageAffichee = document.querySelector('.imgAffichee');
 let barreImage = document.querySelector('.barreImage');
-let listeTableaux = ['planeze','pont-vieux','st-martin'];
-let listeCommentaires = ['Planezes','pont vieux','le village'];
+let listeTableaux = ['st-martin','pont-vieux','planeze','melling'];
+let listeCommentaires = ['le village','pont vieux','Planezes','monastère'];
 
-for(let i = 0; i < 3; i++) {
+for(let i = 0; i < 4; i++) {
   let nouvelleImage = document.createElement('img');
   nouvelleImage.setAttribute('src', 'z-commun/images/' + listeTableaux[i] + '.jpg');
   nouvelleImage.setAttribute('alt', 'St Martin - Tableau de Laurence - ' + listeCommentaires[i]);

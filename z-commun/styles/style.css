@@ -93,6 +93,11 @@ body {
   height: 480px;
 }
 
+.barreImage {
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 5px;
+}
 .barreImage img {
   display: flex;
   float: left;
