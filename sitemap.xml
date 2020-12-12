@@ -502,21 +502,27 @@
       <priority>0.8</priority>
    </url>
     <url>
-      <loc>https://https://teuliere.github.io/pierre-lys-concours/pierre-lys-concours.html</loc>
+      <loc>https://teuliere.github.io/pierre-lys-concours/pierre-lys-concours.html</loc>
       <lastmod>2020-11-12</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>https://https://teuliere.github.io/ZD-Delmas/ZD-Delmas.html</loc>
+      <loc>https://teuliere.github.io/ZD-Delmas/ZD-Delmas.html</loc>
       <lastmod>2020-11-13</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>https://https://teuliere.github.io/gesse/gesse.html</loc>
+      <loc>https://teuliere.github.io/gesse/gesse.html</loc>
       <lastmod>2020-11-14</lastmod>
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
    </url>
-</urlset> 
+   <url>
+      <loc>https://teuliere.github.io/nouvelles/nouvelles.html</loc>
+      <lastmod>2020-11-16</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+</urlset>
