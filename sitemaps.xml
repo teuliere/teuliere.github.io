@@ -7,9 +7,14 @@
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
       <image:image>
-         <image:loc>https://teuliere.github.io/z-commun/images/100_1814%20village%20depuis%20la%20via%20ferrata.JPG</image:loc>
+         <image:loc>https://teuliere.github.io/z-commun/images/100_1814-4.jpg</image:loc>
          <image:caption>Saint Martin Lys</image:caption>
          <image:title>Saint Martin lys vue de la via ferrata</image:title> 
+      </image:image>
+      <image:image>
+         <image:loc>https://teuliere.github.io/z-commun/images/melling.jpg</image:loc>
+         <image:caption>Saint Martin Lys abbaye</image:caption>
+         <image:title>Saint Martin lys - L'abbaye d'après Melling</image:title> 
       </image:image>
       <image:image>
          <image:loc>https://teuliere.github.io/z-commun/images/st-martin.jpg</image:loc>
@@ -488,6 +493,11 @@
       <lastmod>2020-09-05</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
+      <image:image>
+         <image:loc>https://teuliere.github.io/z-commun/images/100_1814%20village%20depuis%20la%20via%20ferrata.JPG</image:loc>
+         <image:caption>Saint Martin Lys</image:caption>
+         <image:title>Saint Martin lys vue de la via ferrata</image:title> 
+      </image:image>
    </url>
    <url>
       <loc>https://teuliere.github.io/st-georges/st-georges.html</loc>
