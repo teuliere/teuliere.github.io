@@ -1,2 +1,0 @@
-[1215/230513.463:ERROR:directory_reader_win.cc(43)] FindFirstFile: Le chemin d’accès spécifié est introuvable. (0x3)
-[1215/230513.471:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\silas\AppData\Roaming\Brackets\live-dev-profile\Crashpad\attachments\ac2b39fa-1a87-4055-bfb8-5d43d07def00: Le chemin d’accès spécifié est introuvable. (0x3)
