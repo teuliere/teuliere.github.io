@@ -447,10 +447,16 @@
       <priority>0.8</priority>
    </url>
    <url>
+      <loc>https://teuliere.github.io/affaire-municipales/AffairesCommunales.html</loc>
+      <lastmod>2020-04-01</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
       <loc>https://teuliere.github.io/affaire-municipales/AffairesCommunales-index.html</loc>
       <lastmod>2021-04-01</lastmod>
       <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
+      <priority>1.0</priority>
    </url>
    <url>
       <loc>https://teuliere.github.io/affaire-municipales/AffairesCommunales-registre1.html</loc>
@@ -563,7 +569,7 @@
       <loc>https://teuliere.github.io/nouvelles/nouvelles.html</loc>
       <lastmod>2020-11-16</lastmod>
       <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
+      <priority>1.0</priority>
    </url>
    <url>
       <loc>https://teuliere.github.io/sentier/sentier-cathare.html</loc>
