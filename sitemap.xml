@@ -571,6 +571,30 @@
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
    </url>
+    <url>
+      <loc>https://teuliere.github.io/nouvelles/nouvelle-lugan.html</loc>
+      <lastmod>2021-06-11</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>  
+   </url>
+    <url>
+      <loc>https://teuliere.github.io/nouvelles/nouvelle-amiel.html</loc>
+      <lastmod>2021-06-11</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>  
+   </url>
+    <url>
+      <loc>https://teuliere.github.io/nouvelles/nouvelle-berthoud.html</loc>
+      <lastmod>2021-06-11</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>  
+   </url>
+    <url>
+      <loc>https://teuliere.github.io/nouvelles/nouvelle-vie.html</loc>
+      <lastmod>2021-06-11</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>  
+   </url>
    <url>
       <loc>https://teuliere.github.io/sentier/sentier-cathare.html</loc>
       <lastmod>2021-01-26</lastmod>
