@@ -571,25 +571,31 @@
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
    </url>
-    <url>
+   <url>
       <loc>https://teuliere.github.io/nouvelles/nouvelle-lugan.html</loc>
       <lastmod>2021-06-11</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>  
    </url>
-    <url>
+   <url>
       <loc>https://teuliere.github.io/nouvelles/nouvelle-amiel.html</loc>
       <lastmod>2021-06-11</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>  
    </url>
-    <url>
+   <url>
+      <loc>https://teuliere.github.io/nouvelles/fin-abbaye.html</loc>
+      <lastmod>2021-06-19</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>  
+   </url>
+   <url>
       <loc>https://teuliere.github.io/nouvelles/nouvelle-berthoud.html</loc>
       <lastmod>2021-06-11</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>  
    </url>
-    <url>
+   <url>
       <loc>https://teuliere.github.io/nouvelles/nouvelle-vie.html</loc>
       <lastmod>2021-06-11</lastmod>
       <changefreq>weekly</changefreq>
