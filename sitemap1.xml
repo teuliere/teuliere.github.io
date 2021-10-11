@@ -382,6 +382,46 @@
       <priority>0.8</priority>
    </url>
    <url>
+      <loc>https://teuliere.github.io/affaire-municipales/AffairesCommunales-index.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+   </url>
+   <url>
+      <loc>https://teuliere.github.io/affaire-municipales/AffairesCommunales-registre1.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://teuliere.github.io/affaire-municipales/AffairesCommunales-registre2.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://teuliere.github.io/affaire-municipales/AffairesCommunales-registre3.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://teuliere.github.io/affaire-municipales/AffairesCommunales-registre4.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://teuliere.github.io/affaire-municipales/AffairesCommunales-registre5.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://teuliere.github.io/affaire-municipales/AffairesCommunales-registre6.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://teuliere.github.io/affaire-municipales/AffairesCommunales-registre7.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
       <loc>https://teuliere.github.io/gare/TrainTouristique.html</loc>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
@@ -446,4 +486,49 @@
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
    </url>
- </urlset>
+   <url>
+      <loc>https://teuliere.github.io/nouvelles/nouvelles.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+   </url>
+   <url>
+      <loc>https://teuliere.github.io/nouvelles/nouvelle-lugan.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>  
+   </url>
+   <url>
+      <loc>https://teuliere.github.io/nouvelles/nouvelle-amiel.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>  
+   </url>
+   <url>
+      <loc>https://teuliere.github.io/nouvelles/fin-abbaye.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>  
+   </url>
+   <url>
+      <loc>https://teuliere.github.io/nouvelles/nouvelle-berthoud.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>  
+   </url>
+   <url>
+      <loc>https://teuliere.github.io/nouvelles/nouvelle-vie.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>  
+   </url>
+   <url>
+      <loc>https://teuliere.github.io/sentier/sentier-cathare.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+   </url>
+   <url>
+      <loc>https://teuliere.github.io/gorges-rebenty/gorges-rebenty.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://teuliere.github.io/combret/combret.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+</urlset>
