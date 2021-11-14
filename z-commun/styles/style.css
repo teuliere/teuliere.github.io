@@ -3,7 +3,7 @@ html {
     font-family: 'Open Sans', sans-serif; /* cela devrait être le reste du résultat obtenu à partir de Google fonts */
     background-color: #ffffbf;
 }
-p,li,th,caption {
+p,li,th,caption,label {
   font-size: 16px;    
   line-height: 2;
   letter-spacing: 1px;
@@ -12,6 +12,12 @@ p,li,th,caption {
 /*  border: 1px solid black;*/
 }
 li{width: 750px;}
+input {
+  font-size: 16px;    
+  line-height: 2;
+  letter-spacing: 1px;
+   color: black;
+}
 
 #voieferre {
     color: salmon;
