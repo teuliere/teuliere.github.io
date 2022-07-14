@@ -13,7 +13,7 @@
       <image:image>
          <image:loc>https://teuliere.github.io/z-commun/images/melling.jpg</image:loc>
          <image:caption>Saint Martin Lys abbaye</image:caption>
-         <image:title>Saint Martin lys - L'abbaye d'après Melling</image:title> 
+         <image:title>Saint Martin lys - L'abbaye d'après Melling - tableau de Laurence Teulière</image:title> 
       </image:image>
    </url>
    <url>
@@ -453,6 +453,36 @@
    </url>
    <url>
       <loc>https://teuliere.github.io/courondes/courondes.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://teuliere.github.io/perso-emile-freu/emile-freu.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://teuliere.github.io/ayguette/ayguette.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://teuliere.github.io/castelpor/castelpor.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://teuliere.github.io/joucou/able-rando.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://teuliere.github.io/col-camp%C3%A9ri%C3%A9/col-camp%C3%A9ri%C3%A9.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://teuliere.github.io/airerepos/airerepos.html</loc>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
