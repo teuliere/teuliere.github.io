@@ -477,11 +477,6 @@
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>https://teuliere.github.io/col-camp%C3%A9ri%C3%A9/col-camp%C3%A9ri%C3%A9.html</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-   </url>
-   <url>
       <loc>https://teuliere.github.io/airerepos/airerepos.html</loc>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
