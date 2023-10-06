@@ -382,11 +382,6 @@
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>https://teuliere.github.io/voie-ferree-historique/annexe-cpa-lapradelle.html</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
       <loc>https://teuliere.github.io/viaduc/interieur-viaduc.html</loc>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
