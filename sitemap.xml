@@ -457,11 +457,6 @@
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>https://teuliere.github.io/perso-emile-freu/emile-freu.html</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-   </url>
-   <url>
       <loc>https://teuliere.github.io/ayguette/ayguette.html</loc>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
