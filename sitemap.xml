@@ -512,7 +512,12 @@
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>hhttps://teuliere.github.io/nouvelles/nouvelle-amiel.html</loc>
+      <loc>https://teuliere.github.io/nouvelles/nouvelle-lugan.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://teuliere.github.io/nouvelles/nouvelle-amiel.html</loc>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
