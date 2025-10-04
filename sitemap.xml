@@ -511,4 +511,29 @@
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
+   <url>
+      <loc>hhttps://teuliere.github.io/nouvelles/nouvelle-amiel.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://teuliere.github.io/nouvelles/nouvelle-berthoud.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://teuliere.github.io/nouvelles/nouvelle-vie.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://teuliere.github.io/nouvelles/fin-abbaye.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://teuliere.github.io/nouvelles/manuscrit_cure.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
 </urlset>
