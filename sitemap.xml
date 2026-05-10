@@ -301,6 +301,7 @@
    </url>
    <url>
       <loc>https://teuliere.github.io/presse/presse-liste.html</loc>
+      <lastmod>2026-05-10</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
@@ -341,6 +342,7 @@
    </url>
    <url>
       <loc>https://teuliere.github.io/statue-felix-armand/statue-felix-armand.html</loc>
+      <lastmod>2026-05-10</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
@@ -511,8 +513,9 @@
    </url>
    <url>
       <loc>https://teuliere.github.io/perso-marcel-lajou/marcel-lajou.html</loc>
+      <lastmod>2026-05-10</lastmod>
       <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
+      <priority>0.5</priority>
    </url>
    <url>
       <loc>https://teuliere.github.io/perso-noel-rios/noel-rios.html</loc>
