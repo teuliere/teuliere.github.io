@@ -4,7 +4,7 @@
    <url>
       <loc>https://teuliere.github.io/</loc>
       <changefreq>daily</changefreq>
-      <lastmod>2026-05-19</lastmod>
+      <lastmod>2026-05-20</lastmod>
       <priority>1.0</priority>
       <image:image>
          <image:loc>https://teuliere.github.io/z-commun/images/100_1814-4.jpg</image:loc>
@@ -232,7 +232,7 @@
    </url>
    <url>
       <loc>https://teuliere.github.io/perso-felix-armand/perso-felix-armand.html</loc>
-      <lastmod>2026-05-12</lastmod>
+      <lastmod>2026-05-20</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
@@ -344,7 +344,7 @@
    </url>
    <url>
       <loc>https://teuliere.github.io/statue-felix-armand/statue-felix-armand.html</loc>
-      <lastmod>2026-05-12</lastmod>
+      <lastmod>2026-05-20</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
@@ -415,6 +415,12 @@
    </url>
    <url>
       <loc>https://teuliere.github.io/stgeorgesrando/stgeorgesrando.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://teuliere.github.io/stgeorgesfuniculaire/stgeorgesfuniculaire.html</loc>
+      <lastmod>2026-05-20</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
