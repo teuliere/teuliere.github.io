@@ -4,7 +4,7 @@
    <url>
       <loc>https://teuliere.github.io/</loc>
       <changefreq>daily</changefreq>
-      <lastmod>2026-05-30</lastmod>
+      <lastmod>2026-06/01</lastmod>
       <priority>1.0</priority>
       <image:image>
          <image:loc>https://teuliere.github.io/z-commun/images/100_1814-4.jpg</image:loc>
@@ -55,23 +55,25 @@
    </url>
    <url>
       <loc>https://teuliere.github.io/presbythere/presbythere.html</loc>
-     <lastmod>2026-05-30</lastmod>
+      <lastmod>2026-05-30</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
       <loc>https://teuliere.github.io/pont-stmartin/pont-stmartin.html</loc>
-     <lastmod>2026-05-30</lastmod>
+      <lastmod>2026-05-30</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
       <loc>https://teuliere.github.io/pont-lavoir/pont-lavoir.html</loc>
+      <lastmod>2026-06-01</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
       <loc>https://teuliere.github.io/irrigation/irrigation.html</loc>
+      <lastmod>2026-06-01</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
@@ -335,6 +337,7 @@
    </url>
    <url>
       <loc>https://teuliere.github.io/cartes/cartes.html</loc>
+      <lastmod>2026-06-01</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
@@ -413,7 +416,7 @@
       <loc>https://teuliere.github.io/st-georges/st-georges.html</loc>
       <lastmod>2026-06-01</lastmod>
       <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
+      <priority>0.8</priority>
    </url>
     <url>
       <loc>https://teuliere.github.io/st-georges/usine-st-georges.html</loc>
