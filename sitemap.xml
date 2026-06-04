@@ -4,7 +4,7 @@
    <url>
       <loc>https://teuliere.github.io/</loc>
       <changefreq>daily</changefreq>
-      <lastmod>2026-06-03</lastmod>
+      <lastmod>2026-06-04</lastmod>
       <priority>1.0</priority>
       <image:image>
          <image:loc>https://teuliere.github.io/z-commun/images/100_1814-4.jpg</image:loc>
@@ -20,7 +20,7 @@
    <url>
       <loc>https://teuliere.github.io/port/port.html</loc>
       <changefreq>monthly</changefreq>
-      <lastmod>2026-05-26</lastmod>
+      <lastmod>2026-06-04</lastmod>
       <priority>0.8</priority>
    </url>
    <url>
@@ -79,7 +79,7 @@
    </url>
    <url>
       <loc>https://teuliere.github.io/source/source.html</loc>
-      <lastmod>2026-06-03</lastmod>
+      <lastmod>2026-06-04</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
@@ -91,11 +91,13 @@
    </url>
    <url>
       <loc>https://teuliere.github.io/epuration/epuration.html</loc>
+      <lastmod>2026-06-04</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
       <loc>https://teuliere.github.io/croix/croix.html</loc>
+      <lastmod>2026-06-04</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
@@ -298,6 +300,7 @@
    </url>
    <url>
       <loc>https://teuliere.github.io/archives/archives.html</loc>
+      <lastmod>2026-06-04</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
