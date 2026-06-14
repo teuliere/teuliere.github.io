@@ -4,7 +4,7 @@
    <url>
       <loc>https://teuliere.github.io/</loc>
       <changefreq>daily</changefreq>
-      <lastmod>2026-06-11</lastmod>
+      <lastmod>2026-06-14</lastmod>
       <priority>1.0</priority>
       <image:image>
          <image:loc>https://teuliere.github.io/z-commun/images/100_1814-4.jpg</image:loc>
@@ -181,6 +181,7 @@
    </url>
    <url>
       <loc>https://teuliere.github.io/planeses-vue/planeses-vue.html</loc>
+      <lastmod>2025-09-24</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
@@ -251,6 +252,7 @@
    </url>
    <url>
       <loc>https://teuliere.github.io/temps/temps.html</loc>
+      <lastmod>2026-06-14</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
@@ -328,7 +330,7 @@
    </url>
    <url>
       <loc>https://teuliere.github.io/presse/presse-liste.html</loc>
-      <lastmod>2026-06-01</lastmod>
+      <lastmod>2026-06-14</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
