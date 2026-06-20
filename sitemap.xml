@@ -433,12 +433,25 @@
    </url>
    <url>
       <loc>https://teuliere.github.io/st-georges/st-georges.html</loc>
-      <lastmod>2026-06-19</lastmod>
+      <lastmod>2026-06-20</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://teuliere.github.io/st-georges/st-georges-presse.html</loc>
+      <lastmod>2026-06-20</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://teuliere.github.io/st-georges/st-georges-visuel.html</loc>
+      <lastmod>2026-06-20</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
     <url>
       <loc>https://teuliere.github.io/st-georges/usine-st-georges.html</loc>
+      <lastmod>2026-06-20</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
