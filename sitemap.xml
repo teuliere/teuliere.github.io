@@ -361,16 +361,19 @@
    </url>
    <url>
       <loc>https://teuliere.github.io/abbaye-partage/abbaye-partage.html</loc>
+      <lastmod>2026-09-14</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
       <loc>https://teuliere.github.io/village/village.html</loc>
+      <lastmod>2026-09-14</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
       <loc>https://teuliere.github.io/cadastre/cadastre.html</loc>
+      <lastmod>2026-09-14</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
